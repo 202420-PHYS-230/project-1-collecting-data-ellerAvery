@@ -10,9 +10,6 @@ editor:
     render-on-save: true
 ---
 
-# Template
-
-## (Delete this section when you commit your report)
 
 For each project there'll be a template like this. I'll try to make the early templates more of a "fill in the blank" experience, but as the semester progresses you'll be seeing less and less scaffolding and more of bare bones layout with a lot of room for creativity and flexibility. The rubric will remain consistent for all the projects. When you are ready to commit your final report, you can delete this cell, and any other cells that are purely made up of instructions or guidance, and leave only the cells that belong in the final report.
 
